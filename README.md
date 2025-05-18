@@ -18,9 +18,7 @@ A fun and simple web application that generates random wholesome memes with the 
 
 ## 📷 Demo
 
-![Demo Screenshot](meme generator project/image.png)
-
-> 🔄 Try it live: *(If hosted online, include the link here)*
+<img src="image.png" alt="Demo Screenshot" width="400"/>
 
 ## 🚀 How It Works
 
